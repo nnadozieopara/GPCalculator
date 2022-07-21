@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\DecagonWeekTasks\Week1\GPACalculator\GPACalculator\bin\Debug\net5.0\GPACalculator.exe
+C:\Users\hp\Desktop\DecagonWeekTasks\Week1\GPACalculator\GPACalculator\bin\Debug\net5.0\GPACalculator.deps.json
+C:\Users\hp\Desktop\DecagonWeekTasks\Week1\GPACalculator\GPACalculator\bin\Debug\net5.0\GPACalculator.runtimeconfig.json
+C:\Users\hp\Desktop\DecagonWeekTasks\Week1\GPACalculator\GPACalculator\bin\Debug\net5.0\GPACalculator.runtimeconfig.dev.json
+C:\Users\hp\Desktop\DecagonWeekTasks\Week1\GPACalculator\GPACalculator\bin\Debug\net5.0\GPACalculator.dll
+C:\Users\hp\Desktop\DecagonWeekTasks\Week1\GPACalculator\GPACalculator\bin\Debug\net5.0\GPACalculator.pdb
+C:\Users\hp\Desktop\DecagonWeekTasks\Week1\GPACalculator\GPACalculator\obj\Debug\net5.0\GPACalculator.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\DecagonWeekTasks\Week1\GPACalculator\GPACalculator\obj\Debug\net5.0\GPACalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\DecagonWeekTasks\Week1\GPACalculator\GPACalculator\obj\Debug\net5.0\GPACalculator.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DecagonWeekTasks\Week1\GPACalculator\GPACalculator\obj\Debug\net5.0\GPACalculator.AssemblyInfo.cs
+C:\Users\hp\Desktop\DecagonWeekTasks\Week1\GPACalculator\GPACalculator\obj\Debug\net5.0\GPACalculator.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DecagonWeekTasks\Week1\GPACalculator\GPACalculator\obj\Debug\net5.0\GPACalculator.dll
+C:\Users\hp\Desktop\DecagonWeekTasks\Week1\GPACalculator\GPACalculator\obj\Debug\net5.0\refint\GPACalculator.dll
+C:\Users\hp\Desktop\DecagonWeekTasks\Week1\GPACalculator\GPACalculator\obj\Debug\net5.0\GPACalculator.pdb
+C:\Users\hp\Desktop\DecagonWeekTasks\Week1\GPACalculator\GPACalculator\obj\Debug\net5.0\GPACalculator.genruntimeconfig.cache
+C:\Users\hp\Desktop\DecagonWeekTasks\Week1\GPACalculator\GPACalculator\obj\Debug\net5.0\ref\GPACalculator.dll
